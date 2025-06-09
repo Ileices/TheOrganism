@@ -1,0 +1,64 @@
+{
+    "modules": [
+        { "name": "data_hoarder", "config": { "directory": "/c:/Users/lokee/Documents/AIOS IO" } },
+        { "name": "private_mode", "config": { "max_free_storage_gb": 50 } },
+        { "name": "big_bang", "config": {} },
+        { "name": "ai_learning", "config": {} },
+        { "name": "hardware_manager", "config": {} }
+    ],
+    "theme": "dark",
+    "window_size": "1200x800",
+    "ml": {
+        "cpu_usage_limit": 1.0,
+        "learning_rate": 0.001,
+        "epochs": 5,
+        "auto_build_enabled": false
+    },
+    "paths": {
+        "additional_features": "ADDITIONAL FEATURES",
+        "documentation": {
+            "about": "wand_modules/wand_about.py",
+            "howto": "wand_modules/wand_howto.py"
+        }
+    },
+    "system": {
+        "version": "0.1.0",
+        "debug_mode": false,
+        "auto_update": true
+    },
+    "ai": {
+        "model_path": "./models",
+        "federated_learning": true,
+        "min_confidence": 0.85
+    },
+    "hpc": {
+        "max_nodes": 1000,
+        "min_contribution": {
+            "cpu_cores": 1,
+            "ram_gb": 2,
+            "storage_gb": 10
+        },
+        "task_scheduler": {
+            "max_concurrent_tasks": 100,
+            "priority_levels": ["high", "medium", "low"],
+            "resource_threshold": 0.9
+        }
+    },
+    "network": {
+        "discovery_port": 5000,
+        "heartbeat_interval": 30,
+        "connection_timeout": 5,
+        "max_peers": 100
+    },
+    "federated_learning": {
+        "min_updates_for_aggregation": 3,
+        "aggregation_method": "fedavg",
+        "min_clients": 2,
+        "rounds_per_epoch": 10
+    },
+    "security": {
+        "encryption_level": "high",
+        "allow_anonymous": false,
+        "incognito_mode_enabled": true
+    }
+}
