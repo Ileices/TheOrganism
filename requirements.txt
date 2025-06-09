@@ -1,0 +1,50 @@
+# UAF Production Requirements - MANDATORY DEPENDENCIES
+# Unified Absolute Framework - Emergency Rebuild per FIXME.md
+# All dependencies are MANDATORY - no optional installs allowed
+
+# Core numerical processing
+numpy>=1.21.0
+
+# System monitoring and hardware detection  
+psutil>=5.8.0
+
+# Core Python Libraries (built-in)
+# asyncio, json, logging, threading, subprocess, queue, pathlib
+# typing, datetime, os, sys, hashlib, time, traceback, decimal
+datetime
+dataclasses
+enum
+pickle
+hashlib
+socket
+signal
+time
+uuid
+zlib
+ssl
+random
+math
+
+# System monitoring and hardware detection
+psutil>=5.8.0
+
+# Optional GPU utilities (for HPC network capabilities)
+# GPUtil>=1.4.0  # Uncomment if GPU monitoring needed
+
+# Computer vision and image processing (for multimodal capabilities)
+# opencv-python>=4.5.0  # Uncomment if computer vision needed
+# Pillow>=8.0.0  # Uncomment if image processing needed
+
+# Audio processing (for multimodal capabilities)
+# librosa>=0.8.0  # Uncomment if audio processing needed
+# soundfile>=0.10.0  # Uncomment if audio I/O needed
+
+# Visualization and plotting (for research instruments)
+# matplotlib>=3.4.0  # Uncomment if plotting needed
+# numpy>=1.21.0  # Uncomment if numerical computing needed
+
+# Network and communication
+requests>=2.25.0
+
+# Development and testing
+pytest>=6.0.0

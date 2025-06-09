@@ -1,0 +1,49 @@
+# Hardware-Accelerated AEOS Consciousness System Requirements
+
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# GPU acceleration (optional but recommended)
+cupy-cuda11x>=9.0.0  # For CUDA support - adjust version based on your CUDA
+pycuda>=2021.1       # Alternative CUDA interface
+
+# Graphics and visualization
+PyOpenGL>=3.1.5
+PyOpenGL-accelerate>=3.1.5
+moderngl>=5.6.0
+pygame>=2.1.0
+pillow>=8.3.0
+
+# System monitoring and performance
+psutil>=5.8.0
+GPUtil>=1.4.0        # GPU monitoring
+py3nvml>=0.2.7       # NVIDIA GPU monitoring
+
+# Parallel processing
+joblib>=1.1.0
+numba>=0.56.0        # JIT compilation for CPU acceleration
+
+# Optional: Intel Math Kernel Library for CPU optimization
+mkl>=2021.4.0
+
+# Development and debugging
+tqdm>=4.62.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Note: Install instructions for different GPU vendors:
+# 
+# For NVIDIA GPUs:
+#   pip install cupy-cuda11x  # Adjust CUDA version
+#   pip install pycuda
+#
+# For AMD GPUs:
+#   pip install pyopencl
+#   pip install ROCm (system-level installation)
+#
+# For Intel GPUs:
+#   pip install intel-extension-for-pytorch
+#   pip install mkl
+#
+# CPU-only fallback (no additional requirements needed)

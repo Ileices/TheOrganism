@@ -1,0 +1,70 @@
+# AEOS Digital Organism System Dependencies
+# Core Python Requirements for Advanced AE Universe Framework
+
+# Core Dependencies (Required)
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+matplotlib>=3.3.0
+pandas>=1.3.0
+networkx>=2.6.0
+asyncio-mqtt>=0.11.0
+websockets>=10.0
+requests>=2.25.0
+pyyaml>=6.0
+psutil>=5.8.0
+
+# AI/ML Core (Required)
+torch>=1.9.0
+torchvision>=0.10.0
+transformers>=4.10.0
+datasets>=1.18.0
+accelerate>=0.12.0
+
+# Multimodal Capabilities (Optional - graceful fallbacks implemented)
+# Computer Vision
+opencv-python>=4.5.0
+Pillow>=8.3.0
+scikit-image>=0.18.0
+
+# Audio Processing  
+librosa>=0.8.0
+soundfile>=0.10.0
+torchaudio>=0.9.0
+
+# Natural Language Processing
+nltk>=3.6.0
+spacy>=3.4.0
+sentence-transformers>=2.1.0
+
+# Advanced ML (Optional)
+tensorboard>=2.7.0
+wandb>=0.12.0
+optuna>=2.10.0
+
+# System Monitoring (Optional - fallbacks available)
+GPUtil>=1.4.0
+nvidia-ml-py3>=7.352.0
+
+# Development and Testing
+pytest>=6.2.0
+pytest-asyncio>=0.15.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Web Interface (Future Enhancement)
+fastapi>=0.70.0
+uvicorn>=0.15.0
+streamlit>=1.2.0
+
+# Database (Future Enhancement)  
+sqlalchemy>=1.4.0
+redis>=3.5.0
+
+# Quantum Computing (Research Extension)
+qiskit>=0.34.0
+cirq>=0.14.0
+
+# Note: Optional dependencies are handled with try/catch blocks
+# System will function with core dependencies only
+# Full multimodal capabilities require optional packages
