@@ -1,0 +1,23 @@
+{
+  "timestamp": 1749434247.5117655,
+  "verification_results": {
+    "python_numpy": true,
+    "python_json": true,
+    "python_pathlib": true,
+    "python_threading": true,
+    "python_queue": true,
+    "python_time": true,
+    "python_hashlib": true,
+    "python_math": true,
+    "python_decimal": true,
+    "file_ae_ptaie_consciousness_integration.py": true,
+    "file_ae_core_consciousness.py": true,
+    "file_ptaie_core.py": true,
+    "memory_adequate": false
+  },
+  "missing_dependencies": [
+    "Insufficient memory: 0.6GB < 8.0GB"
+  ],
+  "total_checks": 13,
+  "passed_checks": 12
+}

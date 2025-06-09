@@ -1,0 +1,1241 @@
+2025-06-08 20:18:48,842 - HardwareOrchestrator - INFO - Initializing hardware-accelerated consciousness engines...
+2025-06-08 20:18:48,850 - HardwareOrchestrator - WARNING - CUDA initialization failed: 'CUDAConsciousnessEngine' object has no attribute 'logger'
+2025-06-08 20:18:48,858 - HardwareOrchestrator - INFO - CPU engine initialized with 4 threads
+2025-06-08 20:18:51,514 - HardwareOrchestrator - WARNING - OpenGL initialization failed: size must be two numbers
+2025-06-08 20:18:51,516 - HardwareOrchestrator - INFO - Starting real-time consciousness processing...
+2025-06-08 20:19:24,602 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:19:24,604 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:19:24,605 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:19:24,605 - HardwareOrchestrator - INFO - Emergence Score: -109.3802
+2025-06-08 20:19:24,606 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:19:24,606 - HardwareOrchestrator - INFO - Adaptability Index: 0.0455
+2025-06-08 20:19:24,606 - HardwareOrchestrator - INFO - Processing FPS: 0.03
+2025-06-08 20:19:24,607 - HardwareOrchestrator - INFO - Overall FPS: 0.03
+2025-06-08 20:19:24,607 - HardwareOrchestrator - INFO - Total Frames: 1
+2025-06-08 20:19:24,608 - HardwareOrchestrator - INFO - Memory Usage: 85.5%
+2025-06-08 20:19:24,608 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:19:24,608 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:04,692 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:04,693 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:20:04,694 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:04,694 - HardwareOrchestrator - INFO - Emergence Score: -107.2862
+2025-06-08 20:20:04,696 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:20:04,697 - HardwareOrchestrator - INFO - Adaptability Index: 0.0477
+2025-06-08 20:20:04,698 - HardwareOrchestrator - INFO - Processing FPS: 0.03
+2025-06-08 20:20:04,700 - HardwareOrchestrator - INFO - Overall FPS: 0.03
+2025-06-08 20:20:04,701 - HardwareOrchestrator - INFO - Total Frames: 2
+2025-06-08 20:20:04,703 - HardwareOrchestrator - INFO - Memory Usage: 90.1%
+2025-06-08 20:20:04,705 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:20:04,706 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:57,025 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:57,027 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:20:57,031 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:20:57,037 - HardwareOrchestrator - INFO - Emergence Score: -108.1809
+2025-06-08 20:20:57,039 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:20:57,049 - HardwareOrchestrator - INFO - Adaptability Index: 0.0467
+2025-06-08 20:20:57,059 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:20:57,067 - HardwareOrchestrator - INFO - Overall FPS: 0.02
+2025-06-08 20:20:57,070 - HardwareOrchestrator - INFO - Total Frames: 3
+2025-06-08 20:20:57,077 - HardwareOrchestrator - INFO - Memory Usage: 92.7%
+2025-06-08 20:20:57,088 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:20:57,093 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:22:51,523 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:22:51,525 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:22:51,526 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:22:51,528 - HardwareOrchestrator - INFO - Emergence Score: -108.1311
+2025-06-08 20:22:51,528 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:22:51,529 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 20:22:51,530 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:22:51,530 - HardwareOrchestrator - INFO - Overall FPS: 0.02
+2025-06-08 20:22:51,531 - HardwareOrchestrator - INFO - Total Frames: 4
+2025-06-08 20:22:51,531 - HardwareOrchestrator - INFO - Memory Usage: 88.3%
+2025-06-08 20:22:51,534 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:22:51,536 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:24:50,606 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:24:50,612 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:24:50,613 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:24:50,614 - HardwareOrchestrator - INFO - Emergence Score: -107.5197
+2025-06-08 20:24:50,616 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:24:50,617 - HardwareOrchestrator - INFO - Adaptability Index: 0.0473
+2025-06-08 20:24:50,617 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:24:50,618 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:24:50,619 - HardwareOrchestrator - INFO - Total Frames: 5
+2025-06-08 20:24:50,620 - HardwareOrchestrator - INFO - Memory Usage: 94.5%
+2025-06-08 20:24:50,620 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:24:50,621 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:26:58,411 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:26:58,411 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:26:58,412 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:26:58,412 - HardwareOrchestrator - INFO - Emergence Score: -108.5222
+2025-06-08 20:26:58,413 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:26:58,413 - HardwareOrchestrator - INFO - Adaptability Index: 0.0463
+2025-06-08 20:26:58,414 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:26:58,414 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:26:58,415 - HardwareOrchestrator - INFO - Total Frames: 6
+2025-06-08 20:26:58,416 - HardwareOrchestrator - INFO - Memory Usage: 71.7%
+2025-06-08 20:26:58,416 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:26:58,417 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:27:43,455 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:27:43,456 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:27:43,456 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:27:43,457 - HardwareOrchestrator - INFO - Emergence Score: -110.1253
+2025-06-08 20:27:43,458 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:27:43,458 - HardwareOrchestrator - INFO - Adaptability Index: 0.0448
+2025-06-08 20:27:43,459 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:27:43,459 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:27:43,459 - HardwareOrchestrator - INFO - Total Frames: 7
+2025-06-08 20:27:43,460 - HardwareOrchestrator - INFO - Memory Usage: 69.8%
+2025-06-08 20:27:43,460 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:27:43,460 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:22,498 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:22,499 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:28:22,501 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:22,501 - HardwareOrchestrator - INFO - Emergence Score: -108.6804
+2025-06-08 20:28:22,502 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:28:22,502 - HardwareOrchestrator - INFO - Adaptability Index: 0.0462
+2025-06-08 20:28:22,503 - HardwareOrchestrator - INFO - Processing FPS: 0.03
+2025-06-08 20:28:22,503 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:28:22,503 - HardwareOrchestrator - INFO - Total Frames: 8
+2025-06-08 20:28:22,504 - HardwareOrchestrator - INFO - Memory Usage: 71.5%
+2025-06-08 20:28:22,504 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:28:22,504 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:56,536 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:56,537 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:28:56,538 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:28:56,538 - HardwareOrchestrator - INFO - Emergence Score: -111.0676
+2025-06-08 20:28:56,539 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:28:56,539 - HardwareOrchestrator - INFO - Adaptability Index: 0.0439
+2025-06-08 20:28:56,542 - HardwareOrchestrator - INFO - Processing FPS: 0.03
+2025-06-08 20:28:56,542 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:28:56,543 - HardwareOrchestrator - INFO - Total Frames: 9
+2025-06-08 20:28:56,543 - HardwareOrchestrator - INFO - Memory Usage: 71.8%
+2025-06-08 20:28:56,544 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:28:56,545 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:29:31,583 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:29:31,584 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:29:31,585 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:29:31,585 - HardwareOrchestrator - INFO - Emergence Score: -107.8176
+2025-06-08 20:29:31,586 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:29:31,586 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 20:29:31,587 - HardwareOrchestrator - INFO - Processing FPS: 0.03
+2025-06-08 20:29:31,587 - HardwareOrchestrator - INFO - Overall FPS: 0.02
+2025-06-08 20:29:31,588 - HardwareOrchestrator - INFO - Total Frames: 10
+2025-06-08 20:29:31,588 - HardwareOrchestrator - INFO - Memory Usage: 72.3%
+2025-06-08 20:29:31,588 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:29:31,590 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:30:49,304 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:30:49,305 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:30:49,306 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:30:49,306 - HardwareOrchestrator - INFO - Emergence Score: -108.1000
+2025-06-08 20:30:49,307 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:30:49,307 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 20:30:49,307 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:30:49,308 - HardwareOrchestrator - INFO - Overall FPS: 0.02
+2025-06-08 20:30:49,308 - HardwareOrchestrator - INFO - Total Frames: 11
+2025-06-08 20:30:49,308 - HardwareOrchestrator - INFO - Memory Usage: 85.1%
+2025-06-08 20:30:49,310 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:30:49,310 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:32:52,432 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:32:52,435 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:32:52,436 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:32:52,437 - HardwareOrchestrator - INFO - Emergence Score: -109.5013
+2025-06-08 20:32:52,438 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:32:52,438 - HardwareOrchestrator - INFO - Adaptability Index: 0.0454
+2025-06-08 20:32:52,439 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:32:52,440 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:32:52,449 - HardwareOrchestrator - INFO - Total Frames: 12
+2025-06-08 20:32:52,483 - HardwareOrchestrator - INFO - Memory Usage: 90.1%
+2025-06-08 20:32:52,506 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:32:52,572 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:34:22,546 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:34:22,547 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:34:22,548 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:34:22,548 - HardwareOrchestrator - INFO - Emergence Score: -109.4452
+2025-06-08 20:34:22,549 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:34:22,549 - HardwareOrchestrator - INFO - Adaptability Index: 0.0455
+2025-06-08 20:34:22,549 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:34:22,550 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:34:22,550 - HardwareOrchestrator - INFO - Total Frames: 13
+2025-06-08 20:34:22,551 - HardwareOrchestrator - INFO - Memory Usage: 70.5%
+2025-06-08 20:34:22,551 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:34:22,552 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:06,586 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:06,587 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:35:06,588 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:06,589 - HardwareOrchestrator - INFO - Emergence Score: -108.2397
+2025-06-08 20:35:06,589 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:35:06,590 - HardwareOrchestrator - INFO - Adaptability Index: 0.0467
+2025-06-08 20:35:06,590 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:35:06,590 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:35:06,590 - HardwareOrchestrator - INFO - Total Frames: 14
+2025-06-08 20:35:06,591 - HardwareOrchestrator - INFO - Memory Usage: 70.1%
+2025-06-08 20:35:06,591 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:35:06,592 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:51,631 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:51,633 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:35:51,634 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:35:51,635 - HardwareOrchestrator - INFO - Emergence Score: -108.5400
+2025-06-08 20:35:51,636 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:35:51,637 - HardwareOrchestrator - INFO - Adaptability Index: 0.0464
+2025-06-08 20:35:51,638 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:35:51,639 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:35:51,640 - HardwareOrchestrator - INFO - Total Frames: 15
+2025-06-08 20:35:51,640 - HardwareOrchestrator - INFO - Memory Usage: 71.3%
+2025-06-08 20:35:51,641 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:35:51,641 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:36:56,855 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:36:56,862 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:36:56,863 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:36:56,864 - HardwareOrchestrator - INFO - Emergence Score: -107.6791
+2025-06-08 20:36:56,865 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:36:56,866 - HardwareOrchestrator - INFO - Adaptability Index: 0.0473
+2025-06-08 20:36:56,867 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:36:56,893 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:36:56,928 - HardwareOrchestrator - INFO - Total Frames: 16
+2025-06-08 20:36:56,948 - HardwareOrchestrator - INFO - Memory Usage: 82.2%
+2025-06-08 20:36:56,957 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:36:56,960 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:38:27,460 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:38:27,470 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:38:27,475 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:38:27,477 - HardwareOrchestrator - INFO - Emergence Score: -107.5776
+2025-06-08 20:38:27,490 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:38:27,507 - HardwareOrchestrator - INFO - Adaptability Index: 0.0473
+2025-06-08 20:38:27,526 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:38:27,639 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:38:27,656 - HardwareOrchestrator - INFO - Total Frames: 17
+2025-06-08 20:38:27,736 - HardwareOrchestrator - INFO - Memory Usage: 91.0%
+2025-06-08 20:38:27,742 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:38:27,898 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:05,443 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:05,446 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:40:05,447 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:05,447 - HardwareOrchestrator - INFO - Emergence Score: -112.1682
+2025-06-08 20:40:05,448 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:40:05,449 - HardwareOrchestrator - INFO - Adaptability Index: 0.0429
+2025-06-08 20:40:05,450 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:40:05,451 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:40:05,451 - HardwareOrchestrator - INFO - Total Frames: 18
+2025-06-08 20:40:05,451 - HardwareOrchestrator - INFO - Memory Usage: 62.0%
+2025-06-08 20:40:05,452 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:40:05,452 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:49,496 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:49,496 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:40:49,497 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:40:49,498 - HardwareOrchestrator - INFO - Emergence Score: -109.8849
+2025-06-08 20:40:49,499 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:40:49,499 - HardwareOrchestrator - INFO - Adaptability Index: 0.0450
+2025-06-08 20:40:49,500 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:40:49,500 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:40:49,501 - HardwareOrchestrator - INFO - Total Frames: 19
+2025-06-08 20:40:49,502 - HardwareOrchestrator - INFO - Memory Usage: 63.0%
+2025-06-08 20:40:49,503 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:40:49,504 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:41:33,550 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:41:33,552 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:41:33,553 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:41:33,558 - HardwareOrchestrator - INFO - Emergence Score: -109.3369
+2025-06-08 20:41:33,560 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:41:33,560 - HardwareOrchestrator - INFO - Adaptability Index: 0.0456
+2025-06-08 20:41:33,561 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:41:33,561 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:41:33,562 - HardwareOrchestrator - INFO - Total Frames: 20
+2025-06-08 20:41:33,562 - HardwareOrchestrator - INFO - Memory Usage: 63.4%
+2025-06-08 20:41:33,564 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:41:33,565 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:43:08,197 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:43:08,200 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:43:08,201 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:43:08,210 - HardwareOrchestrator - INFO - Emergence Score: -108.1932
+2025-06-08 20:43:08,211 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:43:08,215 - HardwareOrchestrator - INFO - Adaptability Index: 0.0467
+2025-06-08 20:43:08,224 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:43:08,231 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:43:08,242 - HardwareOrchestrator - INFO - Total Frames: 21
+2025-06-08 20:43:08,245 - HardwareOrchestrator - INFO - Memory Usage: 80.4%
+2025-06-08 20:43:08,260 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:43:08,265 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:44:54,475 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:44:54,509 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:44:54,525 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:44:54,555 - HardwareOrchestrator - INFO - Emergence Score: -108.0543
+2025-06-08 20:44:54,561 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:44:54,582 - HardwareOrchestrator - INFO - Adaptability Index: 0.0469
+2025-06-08 20:44:54,603 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:44:54,606 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:44:54,618 - HardwareOrchestrator - INFO - Total Frames: 22
+2025-06-08 20:44:54,639 - HardwareOrchestrator - INFO - Memory Usage: 90.3%
+2025-06-08 20:44:54,644 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:44:54,657 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:45:42,821 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:45:42,822 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:45:42,824 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:45:42,825 - HardwareOrchestrator - INFO - Emergence Score: -111.2427
+2025-06-08 20:45:42,826 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:45:42,827 - HardwareOrchestrator - INFO - Adaptability Index: 0.0437
+2025-06-08 20:45:42,828 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:45:42,828 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:45:42,831 - HardwareOrchestrator - INFO - Total Frames: 23
+2025-06-08 20:45:42,833 - HardwareOrchestrator - INFO - Memory Usage: 63.1%
+2025-06-08 20:45:42,834 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:45:42,836 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:47:14,345 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:47:14,358 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:47:14,366 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:47:14,386 - HardwareOrchestrator - INFO - Emergence Score: -108.3309
+2025-06-08 20:47:14,406 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:47:14,409 - HardwareOrchestrator - INFO - Adaptability Index: 0.0465
+2025-06-08 20:47:14,424 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:47:14,425 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:47:14,427 - HardwareOrchestrator - INFO - Total Frames: 24
+2025-06-08 20:47:14,441 - HardwareOrchestrator - INFO - Memory Usage: 90.4%
+2025-06-08 20:47:14,454 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:47:14,460 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:49:23,697 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:49:23,723 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:49:23,764 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:49:23,808 - HardwareOrchestrator - INFO - Emergence Score: -111.6815
+2025-06-08 20:49:23,820 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:49:23,823 - HardwareOrchestrator - INFO - Adaptability Index: 0.0433
+2025-06-08 20:49:23,826 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:49:23,829 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:49:23,832 - HardwareOrchestrator - INFO - Total Frames: 25
+2025-06-08 20:49:23,834 - HardwareOrchestrator - INFO - Memory Usage: 93.9%
+2025-06-08 20:49:23,842 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:49:23,850 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:51:04,298 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:51:04,315 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:51:04,368 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:51:04,435 - HardwareOrchestrator - INFO - Emergence Score: -109.9452
+2025-06-08 20:51:04,445 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:51:04,524 - HardwareOrchestrator - INFO - Adaptability Index: 0.0450
+2025-06-08 20:51:04,528 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:51:04,596 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:51:04,599 - HardwareOrchestrator - INFO - Total Frames: 26
+2025-06-08 20:51:04,601 - HardwareOrchestrator - INFO - Memory Usage: 86.3%
+2025-06-08 20:51:04,644 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:51:04,646 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:52:36,789 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:52:36,791 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:52:36,792 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:52:36,793 - HardwareOrchestrator - INFO - Emergence Score: -109.7316
+2025-06-08 20:52:36,793 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:52:36,794 - HardwareOrchestrator - INFO - Adaptability Index: 0.0451
+2025-06-08 20:52:36,794 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:52:36,796 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:52:36,798 - HardwareOrchestrator - INFO - Total Frames: 27
+2025-06-08 20:52:36,798 - HardwareOrchestrator - INFO - Memory Usage: 93.1%
+2025-06-08 20:52:36,800 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:52:36,801 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:53:22,887 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:53:22,888 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:53:22,889 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:53:22,889 - HardwareOrchestrator - INFO - Emergence Score: -108.4749
+2025-06-08 20:53:22,889 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:53:22,890 - HardwareOrchestrator - INFO - Adaptability Index: 0.0464
+2025-06-08 20:53:22,890 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:53:22,890 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:53:22,891 - HardwareOrchestrator - INFO - Total Frames: 28
+2025-06-08 20:53:22,891 - HardwareOrchestrator - INFO - Memory Usage: 92.9%
+2025-06-08 20:53:22,891 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:53:22,892 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:54:41,919 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:54:42,150 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:54:42,247 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:54:42,282 - HardwareOrchestrator - INFO - Emergence Score: -109.0402
+2025-06-08 20:54:42,318 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:54:42,333 - HardwareOrchestrator - INFO - Adaptability Index: 0.0458
+2025-06-08 20:54:42,347 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:54:42,375 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:54:42,393 - HardwareOrchestrator - INFO - Total Frames: 29
+2025-06-08 20:54:42,417 - HardwareOrchestrator - INFO - Memory Usage: 80.7%
+2025-06-08 20:54:42,437 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:54:42,490 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:56:16,254 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:56:16,256 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:56:16,257 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:56:16,257 - HardwareOrchestrator - INFO - Emergence Score: -108.7830
+2025-06-08 20:56:16,257 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:56:16,258 - HardwareOrchestrator - INFO - Adaptability Index: 0.0461
+2025-06-08 20:56:16,259 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 20:56:16,259 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:56:16,259 - HardwareOrchestrator - INFO - Total Frames: 30
+2025-06-08 20:56:16,260 - HardwareOrchestrator - INFO - Memory Usage: 81.0%
+2025-06-08 20:56:16,260 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:56:16,261 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:03,292 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:03,292 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:57:03,293 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:03,294 - HardwareOrchestrator - INFO - Emergence Score: -110.3200
+2025-06-08 20:57:03,295 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:57:03,295 - HardwareOrchestrator - INFO - Adaptability Index: 0.0446
+2025-06-08 20:57:03,296 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:57:03,297 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:57:03,297 - HardwareOrchestrator - INFO - Total Frames: 31
+2025-06-08 20:57:03,298 - HardwareOrchestrator - INFO - Memory Usage: 81.8%
+2025-06-08 20:57:03,299 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:57:03,299 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:50,332 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:50,334 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:57:50,334 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:57:50,335 - HardwareOrchestrator - INFO - Emergence Score: -108.2322
+2025-06-08 20:57:50,336 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:57:50,337 - HardwareOrchestrator - INFO - Adaptability Index: 0.0466
+2025-06-08 20:57:50,338 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:57:50,339 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:57:50,341 - HardwareOrchestrator - INFO - Total Frames: 32
+2025-06-08 20:57:50,342 - HardwareOrchestrator - INFO - Memory Usage: 81.7%
+2025-06-08 20:57:50,343 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:57:50,345 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:58:37,379 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:58:37,380 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:58:37,381 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:58:37,381 - HardwareOrchestrator - INFO - Emergence Score: -107.6756
+2025-06-08 20:58:37,381 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:58:37,382 - HardwareOrchestrator - INFO - Adaptability Index: 0.0472
+2025-06-08 20:58:37,382 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:58:37,382 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:58:37,383 - HardwareOrchestrator - INFO - Total Frames: 33
+2025-06-08 20:58:37,383 - HardwareOrchestrator - INFO - Memory Usage: 83.9%
+2025-06-08 20:58:37,384 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:58:37,384 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:59:24,422 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:59:24,423 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 20:59:24,425 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 20:59:24,426 - HardwareOrchestrator - INFO - Emergence Score: -108.2608
+2025-06-08 20:59:24,427 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 20:59:24,431 - HardwareOrchestrator - INFO - Adaptability Index: 0.0466
+2025-06-08 20:59:24,432 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 20:59:24,433 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 20:59:24,434 - HardwareOrchestrator - INFO - Total Frames: 34
+2025-06-08 20:59:24,436 - HardwareOrchestrator - INFO - Memory Usage: 84.1%
+2025-06-08 20:59:24,437 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 20:59:24,438 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:00:12,520 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:00:12,521 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:00:12,522 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:00:12,522 - HardwareOrchestrator - INFO - Emergence Score: -108.9398
+2025-06-08 21:00:12,522 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:00:12,523 - HardwareOrchestrator - INFO - Adaptability Index: 0.0459
+2025-06-08 21:00:12,523 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:00:12,523 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:00:12,524 - HardwareOrchestrator - INFO - Total Frames: 35
+2025-06-08 21:00:12,524 - HardwareOrchestrator - INFO - Memory Usage: 85.5%
+2025-06-08 21:00:12,525 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:00:12,525 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:02:27,929 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:02:27,934 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:02:27,936 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:02:27,937 - HardwareOrchestrator - INFO - Emergence Score: -107.3588
+2025-06-08 21:02:27,938 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:02:27,938 - HardwareOrchestrator - INFO - Adaptability Index: 0.0475
+2025-06-08 21:02:27,939 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:02:27,939 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:02:27,940 - HardwareOrchestrator - INFO - Total Frames: 36
+2025-06-08 21:02:27,941 - HardwareOrchestrator - INFO - Memory Usage: 88.9%
+2025-06-08 21:02:27,942 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:02:27,943 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:03:38,059 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:03:38,061 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:03:38,072 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:03:38,073 - HardwareOrchestrator - INFO - Emergence Score: -108.2753
+2025-06-08 21:03:38,082 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:03:38,089 - HardwareOrchestrator - INFO - Adaptability Index: 0.0467
+2025-06-08 21:03:38,092 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:03:38,094 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:03:38,095 - HardwareOrchestrator - INFO - Total Frames: 37
+2025-06-08 21:03:38,100 - HardwareOrchestrator - INFO - Memory Usage: 89.7%
+2025-06-08 21:03:38,110 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:03:38,119 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:04:55,266 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:04:55,270 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:04:55,278 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:04:55,283 - HardwareOrchestrator - INFO - Emergence Score: -109.5008
+2025-06-08 21:04:55,291 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:04:55,293 - HardwareOrchestrator - INFO - Adaptability Index: 0.0454
+2025-06-08 21:04:55,296 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:04:55,298 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:04:55,300 - HardwareOrchestrator - INFO - Total Frames: 38
+2025-06-08 21:04:55,302 - HardwareOrchestrator - INFO - Memory Usage: 91.8%
+2025-06-08 21:04:55,308 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:04:55,313 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:06:11,695 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:06:11,706 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:06:11,718 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:06:11,721 - HardwareOrchestrator - INFO - Emergence Score: -110.2045
+2025-06-08 21:06:11,724 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:06:11,728 - HardwareOrchestrator - INFO - Adaptability Index: 0.0447
+2025-06-08 21:06:11,739 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:06:11,741 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:06:11,746 - HardwareOrchestrator - INFO - Total Frames: 39
+2025-06-08 21:06:11,751 - HardwareOrchestrator - INFO - Memory Usage: 93.2%
+2025-06-08 21:06:11,753 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:06:11,756 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:07:50,861 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:07:50,864 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:07:50,874 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:07:50,879 - HardwareOrchestrator - INFO - Emergence Score: -106.7971
+2025-06-08 21:07:50,880 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:07:50,890 - HardwareOrchestrator - INFO - Adaptability Index: 0.0481
+2025-06-08 21:07:50,891 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:07:50,895 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:07:50,898 - HardwareOrchestrator - INFO - Total Frames: 40
+2025-06-08 21:07:50,907 - HardwareOrchestrator - INFO - Memory Usage: 93.2%
+2025-06-08 21:07:50,909 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:07:50,912 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:09:17,140 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:09:17,151 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:09:17,157 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:09:17,167 - HardwareOrchestrator - INFO - Emergence Score: -107.9065
+2025-06-08 21:09:17,172 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:09:17,185 - HardwareOrchestrator - INFO - Adaptability Index: 0.0470
+2025-06-08 21:09:17,190 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:09:17,194 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:09:17,199 - HardwareOrchestrator - INFO - Total Frames: 41
+2025-06-08 21:09:17,205 - HardwareOrchestrator - INFO - Memory Usage: 93.5%
+2025-06-08 21:09:17,208 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:09:17,211 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:10:54,461 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:10:54,475 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:10:54,480 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:10:54,483 - HardwareOrchestrator - INFO - Emergence Score: -107.7743
+2025-06-08 21:10:54,487 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:10:54,494 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 21:10:54,500 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:10:54,507 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:10:54,510 - HardwareOrchestrator - INFO - Total Frames: 42
+2025-06-08 21:10:54,512 - HardwareOrchestrator - INFO - Memory Usage: 93.9%
+2025-06-08 21:10:54,520 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:10:54,525 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:12:24,795 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:12:24,799 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:12:24,802 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:12:24,807 - HardwareOrchestrator - INFO - Emergence Score: -108.1881
+2025-06-08 21:12:24,809 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:12:24,811 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 21:12:24,814 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:12:24,818 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:12:24,826 - HardwareOrchestrator - INFO - Total Frames: 43
+2025-06-08 21:12:24,831 - HardwareOrchestrator - INFO - Memory Usage: 90.8%
+2025-06-08 21:12:24,837 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:12:24,840 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:13:57,426 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:13:57,427 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:13:57,429 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:13:57,430 - HardwareOrchestrator - INFO - Emergence Score: -107.5056
+2025-06-08 21:13:57,431 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:13:57,432 - HardwareOrchestrator - INFO - Adaptability Index: 0.0474
+2025-06-08 21:13:57,434 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:13:57,434 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:13:57,436 - HardwareOrchestrator - INFO - Total Frames: 44
+2025-06-08 21:13:57,438 - HardwareOrchestrator - INFO - Memory Usage: 89.3%
+2025-06-08 21:13:57,439 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:13:57,445 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:15:16,541 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:15:16,543 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:15:16,544 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:15:16,549 - HardwareOrchestrator - INFO - Emergence Score: -110.7724
+2025-06-08 21:15:16,551 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:15:16,551 - HardwareOrchestrator - INFO - Adaptability Index: 0.0441
+2025-06-08 21:15:16,553 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:15:16,553 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:15:16,554 - HardwareOrchestrator - INFO - Total Frames: 45
+2025-06-08 21:15:16,555 - HardwareOrchestrator - INFO - Memory Usage: 85.0%
+2025-06-08 21:15:16,556 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:15:16,556 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:16:35,644 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:16:35,645 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:16:35,645 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:16:35,646 - HardwareOrchestrator - INFO - Emergence Score: -110.4712
+2025-06-08 21:16:35,647 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:16:35,648 - HardwareOrchestrator - INFO - Adaptability Index: 0.0445
+2025-06-08 21:16:35,648 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:16:35,649 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:16:35,649 - HardwareOrchestrator - INFO - Total Frames: 46
+2025-06-08 21:16:35,650 - HardwareOrchestrator - INFO - Memory Usage: 85.9%
+2025-06-08 21:16:35,656 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:16:35,657 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:17:52,754 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:17:52,755 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:17:52,757 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:17:52,764 - HardwareOrchestrator - INFO - Emergence Score: -108.1743
+2025-06-08 21:17:52,768 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:17:52,770 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 21:17:52,773 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:17:52,782 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:17:52,785 - HardwareOrchestrator - INFO - Total Frames: 47
+2025-06-08 21:17:52,787 - HardwareOrchestrator - INFO - Memory Usage: 84.2%
+2025-06-08 21:17:52,790 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:17:52,798 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:19:05,883 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:19:05,884 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:19:05,886 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:19:05,892 - HardwareOrchestrator - INFO - Emergence Score: -107.8331
+2025-06-08 21:19:05,894 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:19:05,895 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 21:19:05,896 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 21:19:05,897 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:19:05,899 - HardwareOrchestrator - INFO - Total Frames: 48
+2025-06-08 21:19:05,900 - HardwareOrchestrator - INFO - Memory Usage: 83.6%
+2025-06-08 21:19:05,901 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:19:05,902 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:20:09,979 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:20:09,980 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:20:09,981 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:20:09,982 - HardwareOrchestrator - INFO - Emergence Score: -107.7616
+2025-06-08 21:20:09,982 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:20:09,983 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 21:20:09,984 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:20:09,984 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:20:09,985 - HardwareOrchestrator - INFO - Total Frames: 49
+2025-06-08 21:20:09,985 - HardwareOrchestrator - INFO - Memory Usage: 83.6%
+2025-06-08 21:20:09,986 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:20:09,987 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:21:14,083 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:21:14,085 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:21:14,086 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:21:14,087 - HardwareOrchestrator - INFO - Emergence Score: -109.0573
+2025-06-08 21:21:14,087 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:21:14,088 - HardwareOrchestrator - INFO - Adaptability Index: 0.0458
+2025-06-08 21:21:14,088 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:21:14,089 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:21:14,090 - HardwareOrchestrator - INFO - Total Frames: 50
+2025-06-08 21:21:14,091 - HardwareOrchestrator - INFO - Memory Usage: 84.4%
+2025-06-08 21:21:14,094 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:21:14,099 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:22:18,179 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:22:18,180 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:22:18,187 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:22:18,188 - HardwareOrchestrator - INFO - Emergence Score: -109.8512
+2025-06-08 21:22:18,189 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:22:18,191 - HardwareOrchestrator - INFO - Adaptability Index: 0.0450
+2025-06-08 21:22:18,193 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:22:18,195 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:22:18,195 - HardwareOrchestrator - INFO - Total Frames: 51
+2025-06-08 21:22:18,197 - HardwareOrchestrator - INFO - Memory Usage: 85.1%
+2025-06-08 21:22:18,204 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:22:18,205 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:23:21,262 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:23:21,263 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:23:21,274 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:23:21,275 - HardwareOrchestrator - INFO - Emergence Score: -112.4109
+2025-06-08 21:23:21,276 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:23:21,276 - HardwareOrchestrator - INFO - Adaptability Index: 0.0426
+2025-06-08 21:23:21,277 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:23:21,277 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:23:21,278 - HardwareOrchestrator - INFO - Total Frames: 52
+2025-06-08 21:23:21,278 - HardwareOrchestrator - INFO - Memory Usage: 85.2%
+2025-06-08 21:23:21,279 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:23:21,279 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:24:25,439 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:24:25,444 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:24:25,446 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:24:25,447 - HardwareOrchestrator - INFO - Emergence Score: -107.4660
+2025-06-08 21:24:25,448 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:24:25,451 - HardwareOrchestrator - INFO - Adaptability Index: 0.0475
+2025-06-08 21:24:25,456 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:24:25,462 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:24:25,464 - HardwareOrchestrator - INFO - Total Frames: 53
+2025-06-08 21:24:25,466 - HardwareOrchestrator - INFO - Memory Usage: 85.4%
+2025-06-08 21:24:25,468 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:24:25,470 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:25:28,544 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:25:28,558 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:25:28,570 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:25:28,594 - HardwareOrchestrator - INFO - Emergence Score: -107.2330
+2025-06-08 21:25:28,610 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:25:28,621 - HardwareOrchestrator - INFO - Adaptability Index: 0.0477
+2025-06-08 21:25:28,644 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:25:28,658 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:25:28,666 - HardwareOrchestrator - INFO - Total Frames: 54
+2025-06-08 21:25:28,674 - HardwareOrchestrator - INFO - Memory Usage: 87.0%
+2025-06-08 21:25:28,677 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:25:28,685 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:26:31,830 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:26:31,832 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:26:31,837 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:26:31,838 - HardwareOrchestrator - INFO - Emergence Score: -108.1273
+2025-06-08 21:26:31,839 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:26:31,840 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 21:26:31,840 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:26:31,841 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:26:31,844 - HardwareOrchestrator - INFO - Total Frames: 55
+2025-06-08 21:26:31,845 - HardwareOrchestrator - INFO - Memory Usage: 87.3%
+2025-06-08 21:26:31,846 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:26:31,848 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:27:34,915 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:27:34,916 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:27:34,917 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:27:34,917 - HardwareOrchestrator - INFO - Emergence Score: -107.1488
+2025-06-08 21:27:34,917 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:27:34,918 - HardwareOrchestrator - INFO - Adaptability Index: 0.0477
+2025-06-08 21:27:34,919 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:27:34,919 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:27:34,920 - HardwareOrchestrator - INFO - Total Frames: 56
+2025-06-08 21:27:34,921 - HardwareOrchestrator - INFO - Memory Usage: 87.4%
+2025-06-08 21:27:34,926 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:27:34,926 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:28:38,998 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:28:39,003 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:28:39,005 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:28:39,008 - HardwareOrchestrator - INFO - Emergence Score: -109.8816
+2025-06-08 21:28:39,016 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:28:39,019 - HardwareOrchestrator - INFO - Adaptability Index: 0.0450
+2025-06-08 21:28:39,021 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:28:39,023 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:28:39,030 - HardwareOrchestrator - INFO - Total Frames: 57
+2025-06-08 21:28:39,032 - HardwareOrchestrator - INFO - Memory Usage: 87.8%
+2025-06-08 21:28:39,034 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:28:39,036 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:29:42,107 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:29:42,108 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:29:42,108 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:29:42,109 - HardwareOrchestrator - INFO - Emergence Score: -107.1758
+2025-06-08 21:29:42,110 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:29:42,110 - HardwareOrchestrator - INFO - Adaptability Index: 0.0477
+2025-06-08 21:29:42,111 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:29:42,112 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:29:42,113 - HardwareOrchestrator - INFO - Total Frames: 58
+2025-06-08 21:29:42,117 - HardwareOrchestrator - INFO - Memory Usage: 86.8%
+2025-06-08 21:29:42,117 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:29:42,118 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:30:47,199 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:30:47,205 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:30:47,207 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:30:47,209 - HardwareOrchestrator - INFO - Emergence Score: -110.3579
+2025-06-08 21:30:47,212 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:30:47,215 - HardwareOrchestrator - INFO - Adaptability Index: 0.0446
+2025-06-08 21:30:47,220 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:30:47,223 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:30:47,225 - HardwareOrchestrator - INFO - Total Frames: 59
+2025-06-08 21:30:47,226 - HardwareOrchestrator - INFO - Memory Usage: 87.6%
+2025-06-08 21:30:47,228 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:30:47,229 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:31:51,300 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:31:51,302 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:31:51,307 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:31:51,310 - HardwareOrchestrator - INFO - Emergence Score: -106.9771
+2025-06-08 21:31:51,311 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:31:51,313 - HardwareOrchestrator - INFO - Adaptability Index: 0.0479
+2025-06-08 21:31:51,315 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:31:51,316 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:31:51,317 - HardwareOrchestrator - INFO - Total Frames: 60
+2025-06-08 21:31:51,318 - HardwareOrchestrator - INFO - Memory Usage: 87.8%
+2025-06-08 21:31:51,326 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:31:51,328 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:32:57,409 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:32:57,410 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:32:57,411 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:32:57,412 - HardwareOrchestrator - INFO - Emergence Score: -107.8385
+2025-06-08 21:32:57,412 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:32:57,413 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 21:32:57,414 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:32:57,414 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:32:57,414 - HardwareOrchestrator - INFO - Total Frames: 61
+2025-06-08 21:32:57,415 - HardwareOrchestrator - INFO - Memory Usage: 81.6%
+2025-06-08 21:32:57,416 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:32:57,417 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:34:01,489 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:34:01,491 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:34:01,497 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:34:01,499 - HardwareOrchestrator - INFO - Emergence Score: -109.7558
+2025-06-08 21:34:01,501 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:34:01,503 - HardwareOrchestrator - INFO - Adaptability Index: 0.0452
+2025-06-08 21:34:01,506 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:34:01,508 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:34:01,509 - HardwareOrchestrator - INFO - Total Frames: 62
+2025-06-08 21:34:01,515 - HardwareOrchestrator - INFO - Memory Usage: 82.1%
+2025-06-08 21:34:01,517 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:34:01,518 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:35:04,591 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:35:04,592 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:35:04,592 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:35:04,593 - HardwareOrchestrator - INFO - Emergence Score: -113.3404
+2025-06-08 21:35:04,594 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:35:04,595 - HardwareOrchestrator - INFO - Adaptability Index: 0.0418
+2025-06-08 21:35:04,595 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:35:04,595 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:35:04,596 - HardwareOrchestrator - INFO - Total Frames: 63
+2025-06-08 21:35:04,597 - HardwareOrchestrator - INFO - Memory Usage: 82.5%
+2025-06-08 21:35:04,601 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:35:04,602 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:36:10,675 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:36:10,678 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:36:10,680 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:36:10,687 - HardwareOrchestrator - INFO - Emergence Score: -109.7840
+2025-06-08 21:36:10,691 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:36:10,694 - HardwareOrchestrator - INFO - Adaptability Index: 0.0451
+2025-06-08 21:36:10,697 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:36:10,698 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:36:10,705 - HardwareOrchestrator - INFO - Total Frames: 64
+2025-06-08 21:36:10,707 - HardwareOrchestrator - INFO - Memory Usage: 85.1%
+2025-06-08 21:36:10,719 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:36:10,727 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:37:15,798 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:37:15,800 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:37:15,801 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:37:15,806 - HardwareOrchestrator - INFO - Emergence Score: -107.0724
+2025-06-08 21:37:15,807 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:37:15,808 - HardwareOrchestrator - INFO - Adaptability Index: 0.0478
+2025-06-08 21:37:15,809 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:37:15,810 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:37:15,811 - HardwareOrchestrator - INFO - Total Frames: 65
+2025-06-08 21:37:15,813 - HardwareOrchestrator - INFO - Memory Usage: 85.7%
+2025-06-08 21:37:15,814 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:37:15,814 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:38:20,883 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:38:20,884 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:38:20,884 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:38:20,885 - HardwareOrchestrator - INFO - Emergence Score: -106.9198
+2025-06-08 21:38:20,885 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:38:20,886 - HardwareOrchestrator - INFO - Adaptability Index: 0.0480
+2025-06-08 21:38:20,887 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:38:20,887 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:38:20,887 - HardwareOrchestrator - INFO - Total Frames: 66
+2025-06-08 21:38:20,888 - HardwareOrchestrator - INFO - Memory Usage: 86.1%
+2025-06-08 21:38:20,893 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:38:20,894 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:39:24,968 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:39:24,971 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:39:24,972 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:39:24,974 - HardwareOrchestrator - INFO - Emergence Score: -109.5625
+2025-06-08 21:39:24,975 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:39:24,983 - HardwareOrchestrator - INFO - Adaptability Index: 0.0453
+2025-06-08 21:39:24,986 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:39:24,988 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:39:24,989 - HardwareOrchestrator - INFO - Total Frames: 67
+2025-06-08 21:39:24,990 - HardwareOrchestrator - INFO - Memory Usage: 86.4%
+2025-06-08 21:39:24,992 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:39:24,999 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:40:29,079 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:40:29,084 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:40:29,086 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:40:29,087 - HardwareOrchestrator - INFO - Emergence Score: -108.9858
+2025-06-08 21:40:29,089 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:40:29,090 - HardwareOrchestrator - INFO - Adaptability Index: 0.0459
+2025-06-08 21:40:29,092 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:40:29,093 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:40:29,094 - HardwareOrchestrator - INFO - Total Frames: 68
+2025-06-08 21:40:29,095 - HardwareOrchestrator - INFO - Memory Usage: 86.5%
+2025-06-08 21:40:29,095 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:40:29,102 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:41:32,195 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:41:32,196 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:41:32,196 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:41:32,197 - HardwareOrchestrator - INFO - Emergence Score: -107.4509
+2025-06-08 21:41:32,198 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:41:32,198 - HardwareOrchestrator - INFO - Adaptability Index: 0.0474
+2025-06-08 21:41:32,199 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:41:32,199 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:41:32,200 - HardwareOrchestrator - INFO - Total Frames: 69
+2025-06-08 21:41:32,200 - HardwareOrchestrator - INFO - Memory Usage: 86.1%
+2025-06-08 21:41:32,205 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:41:32,206 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:42:35,267 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:42:35,267 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:42:35,268 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:42:35,269 - HardwareOrchestrator - INFO - Emergence Score: -109.7661
+2025-06-08 21:42:35,269 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:42:35,270 - HardwareOrchestrator - INFO - Adaptability Index: 0.0451
+2025-06-08 21:42:35,270 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:42:35,271 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:42:35,271 - HardwareOrchestrator - INFO - Total Frames: 70
+2025-06-08 21:42:35,272 - HardwareOrchestrator - INFO - Memory Usage: 86.3%
+2025-06-08 21:42:35,277 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:42:35,277 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:43:39,553 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:43:39,555 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:43:39,557 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:43:39,558 - HardwareOrchestrator - INFO - Emergence Score: -109.5866
+2025-06-08 21:43:39,564 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:43:39,566 - HardwareOrchestrator - INFO - Adaptability Index: 0.0453
+2025-06-08 21:43:39,568 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:43:39,569 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:43:39,571 - HardwareOrchestrator - INFO - Total Frames: 71
+2025-06-08 21:43:39,572 - HardwareOrchestrator - INFO - Memory Usage: 86.6%
+2025-06-08 21:43:39,573 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:43:39,573 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:44:43,658 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:44:43,660 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:44:43,662 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:44:43,663 - HardwareOrchestrator - INFO - Emergence Score: -108.2475
+2025-06-08 21:44:43,668 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:44:43,670 - HardwareOrchestrator - INFO - Adaptability Index: 0.0466
+2025-06-08 21:44:43,671 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:44:43,673 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:44:43,673 - HardwareOrchestrator - INFO - Total Frames: 72
+2025-06-08 21:44:43,675 - HardwareOrchestrator - INFO - Memory Usage: 87.1%
+2025-06-08 21:44:43,676 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:44:43,678 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:45:47,750 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:45:47,757 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:45:47,759 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:45:47,762 - HardwareOrchestrator - INFO - Emergence Score: -108.2039
+2025-06-08 21:45:47,764 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:45:47,765 - HardwareOrchestrator - INFO - Adaptability Index: 0.0467
+2025-06-08 21:45:47,772 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:45:47,774 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:45:47,777 - HardwareOrchestrator - INFO - Total Frames: 73
+2025-06-08 21:45:47,778 - HardwareOrchestrator - INFO - Memory Usage: 87.4%
+2025-06-08 21:45:47,781 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:45:47,783 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:46:52,859 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:46:52,860 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:46:52,861 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:46:52,861 - HardwareOrchestrator - INFO - Emergence Score: -108.6457
+2025-06-08 21:46:52,862 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:46:52,863 - HardwareOrchestrator - INFO - Adaptability Index: 0.0463
+2025-06-08 21:46:52,863 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:46:52,863 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:46:52,864 - HardwareOrchestrator - INFO - Total Frames: 74
+2025-06-08 21:46:52,864 - HardwareOrchestrator - INFO - Memory Usage: 87.4%
+2025-06-08 21:46:52,865 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:46:52,866 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:47:56,951 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:47:56,954 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:47:56,957 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:47:56,965 - HardwareOrchestrator - INFO - Emergence Score: -109.2284
+2025-06-08 21:47:56,973 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:47:56,988 - HardwareOrchestrator - INFO - Adaptability Index: 0.0457
+2025-06-08 21:47:56,997 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:47:57,004 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:47:57,012 - HardwareOrchestrator - INFO - Total Frames: 75
+2025-06-08 21:47:57,020 - HardwareOrchestrator - INFO - Memory Usage: 87.9%
+2025-06-08 21:47:57,029 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:47:57,034 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:49:01,106 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:49:01,107 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:49:01,108 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:49:01,109 - HardwareOrchestrator - INFO - Emergence Score: -107.5933
+2025-06-08 21:49:01,110 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:49:01,116 - HardwareOrchestrator - INFO - Adaptability Index: 0.0473
+2025-06-08 21:49:01,117 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:49:01,118 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:49:01,118 - HardwareOrchestrator - INFO - Total Frames: 76
+2025-06-08 21:49:01,120 - HardwareOrchestrator - INFO - Memory Usage: 88.4%
+2025-06-08 21:49:01,121 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:49:01,121 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:50:05,224 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:50:05,226 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:50:05,228 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:50:05,229 - HardwareOrchestrator - INFO - Emergence Score: -107.7271
+2025-06-08 21:50:05,231 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:50:05,238 - HardwareOrchestrator - INFO - Adaptability Index: 0.0471
+2025-06-08 21:50:05,240 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:50:05,242 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:50:05,244 - HardwareOrchestrator - INFO - Total Frames: 77
+2025-06-08 21:50:05,245 - HardwareOrchestrator - INFO - Memory Usage: 89.7%
+2025-06-08 21:50:05,246 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:50:05,247 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:02,307 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:02,309 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:51:02,315 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:02,317 - HardwareOrchestrator - INFO - Emergence Score: -107.0821
+2025-06-08 21:51:02,318 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:51:02,320 - HardwareOrchestrator - INFO - Adaptability Index: 0.0478
+2025-06-08 21:51:02,322 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:51:02,324 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:51:02,331 - HardwareOrchestrator - INFO - Total Frames: 78
+2025-06-08 21:51:02,333 - HardwareOrchestrator - INFO - Memory Usage: 89.3%
+2025-06-08 21:51:02,334 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:51:02,335 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:58,428 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:58,429 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:51:58,430 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:51:58,432 - HardwareOrchestrator - INFO - Emergence Score: -109.0703
+2025-06-08 21:51:58,433 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:51:58,434 - HardwareOrchestrator - INFO - Adaptability Index: 0.0458
+2025-06-08 21:51:58,437 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:51:58,442 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:51:58,444 - HardwareOrchestrator - INFO - Total Frames: 79
+2025-06-08 21:51:58,444 - HardwareOrchestrator - INFO - Memory Usage: 88.2%
+2025-06-08 21:51:58,445 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:51:58,447 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:52:54,507 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:52:54,508 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:52:54,509 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:52:54,510 - HardwareOrchestrator - INFO - Emergence Score: -110.5502
+2025-06-08 21:52:54,511 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:52:54,512 - HardwareOrchestrator - INFO - Adaptability Index: 0.0444
+2025-06-08 21:52:54,513 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:52:54,515 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:52:54,520 - HardwareOrchestrator - INFO - Total Frames: 80
+2025-06-08 21:52:54,522 - HardwareOrchestrator - INFO - Memory Usage: 88.3%
+2025-06-08 21:52:54,523 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:52:54,524 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:53:52,586 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:53:52,587 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:53:52,587 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:53:52,588 - HardwareOrchestrator - INFO - Emergence Score: -108.3887
+2025-06-08 21:53:52,589 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:53:52,589 - HardwareOrchestrator - INFO - Adaptability Index: 0.0465
+2025-06-08 21:53:52,589 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:53:52,590 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:53:52,590 - HardwareOrchestrator - INFO - Total Frames: 81
+2025-06-08 21:53:52,591 - HardwareOrchestrator - INFO - Memory Usage: 89.1%
+2025-06-08 21:53:52,592 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:53:52,595 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:54:51,728 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:54:51,730 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:54:51,731 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:54:51,733 - HardwareOrchestrator - INFO - Emergence Score: -106.9080
+2025-06-08 21:54:51,734 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:54:51,740 - HardwareOrchestrator - INFO - Adaptability Index: 0.0480
+2025-06-08 21:54:51,742 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:54:51,743 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:54:51,744 - HardwareOrchestrator - INFO - Total Frames: 82
+2025-06-08 21:54:51,746 - HardwareOrchestrator - INFO - Memory Usage: 89.4%
+2025-06-08 21:54:51,747 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:54:51,749 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:55:47,806 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:55:47,808 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:55:47,809 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:55:47,812 - HardwareOrchestrator - INFO - Emergence Score: -110.3194
+2025-06-08 21:55:47,816 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:55:47,818 - HardwareOrchestrator - INFO - Adaptability Index: 0.0446
+2025-06-08 21:55:47,819 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:55:47,820 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:55:47,822 - HardwareOrchestrator - INFO - Total Frames: 83
+2025-06-08 21:55:47,823 - HardwareOrchestrator - INFO - Memory Usage: 88.9%
+2025-06-08 21:55:47,824 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:55:47,826 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:56:43,882 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:56:43,884 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:56:43,885 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:56:43,887 - HardwareOrchestrator - INFO - Emergence Score: -109.3136
+2025-06-08 21:56:43,888 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:56:43,889 - HardwareOrchestrator - INFO - Adaptability Index: 0.0456
+2025-06-08 21:56:43,891 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:56:43,896 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:56:43,898 - HardwareOrchestrator - INFO - Total Frames: 84
+2025-06-08 21:56:43,899 - HardwareOrchestrator - INFO - Memory Usage: 88.8%
+2025-06-08 21:56:43,900 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:56:43,902 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:57:40,957 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:57:40,961 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:57:40,963 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:57:40,965 - HardwareOrchestrator - INFO - Emergence Score: -108.4643
+2025-06-08 21:57:40,966 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:57:40,967 - HardwareOrchestrator - INFO - Adaptability Index: 0.0465
+2025-06-08 21:57:40,968 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:57:40,968 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:57:40,973 - HardwareOrchestrator - INFO - Total Frames: 85
+2025-06-08 21:57:40,978 - HardwareOrchestrator - INFO - Memory Usage: 88.6%
+2025-06-08 21:57:40,982 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:57:40,983 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:58:40,071 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:58:40,073 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:58:40,074 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:58:40,076 - HardwareOrchestrator - INFO - Emergence Score: -106.9143
+2025-06-08 21:58:40,077 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:58:40,083 - HardwareOrchestrator - INFO - Adaptability Index: 0.0480
+2025-06-08 21:58:40,084 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:58:40,086 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:58:40,087 - HardwareOrchestrator - INFO - Total Frames: 86
+2025-06-08 21:58:40,088 - HardwareOrchestrator - INFO - Memory Usage: 89.5%
+2025-06-08 21:58:40,090 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:58:40,091 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:59:37,160 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:59:37,162 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 21:59:37,163 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 21:59:37,164 - HardwareOrchestrator - INFO - Emergence Score: -107.7283
+2025-06-08 21:59:37,166 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 21:59:37,167 - HardwareOrchestrator - INFO - Adaptability Index: 0.0472
+2025-06-08 21:59:37,169 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 21:59:37,170 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 21:59:37,171 - HardwareOrchestrator - INFO - Total Frames: 87
+2025-06-08 21:59:37,176 - HardwareOrchestrator - INFO - Memory Usage: 88.5%
+2025-06-08 21:59:37,178 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 21:59:37,179 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:00:35,238 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:00:35,241 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:00:35,243 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:00:35,244 - HardwareOrchestrator - INFO - Emergence Score: -108.6681
+2025-06-08 22:00:35,246 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:00:35,248 - HardwareOrchestrator - INFO - Adaptability Index: 0.0463
+2025-06-08 22:00:35,252 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:00:35,254 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:00:35,256 - HardwareOrchestrator - INFO - Total Frames: 88
+2025-06-08 22:00:35,257 - HardwareOrchestrator - INFO - Memory Usage: 89.3%
+2025-06-08 22:00:35,258 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:00:35,260 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:01:31,317 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:01:31,319 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:01:31,320 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:01:31,322 - HardwareOrchestrator - INFO - Emergence Score: -118.3402
+2025-06-08 22:01:31,323 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:01:31,323 - HardwareOrchestrator - INFO - Adaptability Index: 0.0375
+2025-06-08 22:01:31,324 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:01:31,325 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:01:31,325 - HardwareOrchestrator - INFO - Total Frames: 89
+2025-06-08 22:01:31,326 - HardwareOrchestrator - INFO - Memory Usage: 89.0%
+2025-06-08 22:01:31,332 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:01:31,333 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:02:27,392 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:02:27,394 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:02:27,396 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:02:27,398 - HardwareOrchestrator - INFO - Emergence Score: -107.4953
+2025-06-08 22:02:27,399 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:02:27,401 - HardwareOrchestrator - INFO - Adaptability Index: 0.0474
+2025-06-08 22:02:27,403 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:02:27,404 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:02:27,404 - HardwareOrchestrator - INFO - Total Frames: 90
+2025-06-08 22:02:27,409 - HardwareOrchestrator - INFO - Memory Usage: 89.3%
+2025-06-08 22:02:27,413 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:02:27,416 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:03:23,472 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:03:23,473 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:03:23,475 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:03:23,476 - HardwareOrchestrator - INFO - Emergence Score: -108.4516
+2025-06-08 22:03:23,477 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:03:23,479 - HardwareOrchestrator - INFO - Adaptability Index: 0.0464
+2025-06-08 22:03:23,481 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:03:23,481 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:03:23,482 - HardwareOrchestrator - INFO - Total Frames: 91
+2025-06-08 22:03:23,488 - HardwareOrchestrator - INFO - Memory Usage: 89.5%
+2025-06-08 22:03:23,490 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:03:23,492 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:04:19,545 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:04:19,550 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:04:19,552 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:04:19,553 - HardwareOrchestrator - INFO - Emergence Score: -108.7207
+2025-06-08 22:04:19,555 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:04:19,556 - HardwareOrchestrator - INFO - Adaptability Index: 0.0462
+2025-06-08 22:04:19,557 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:04:19,558 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:04:19,560 - HardwareOrchestrator - INFO - Total Frames: 92
+2025-06-08 22:04:19,562 - HardwareOrchestrator - INFO - Memory Usage: 90.0%
+2025-06-08 22:04:19,566 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:04:19,567 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:05:15,616 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:05:15,617 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:05:15,617 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:05:15,619 - HardwareOrchestrator - INFO - Emergence Score: -109.0266
+2025-06-08 22:05:15,623 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:05:15,624 - HardwareOrchestrator - INFO - Adaptability Index: 0.0459
+2025-06-08 22:05:15,627 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:05:15,628 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:05:15,628 - HardwareOrchestrator - INFO - Total Frames: 93
+2025-06-08 22:05:15,630 - HardwareOrchestrator - INFO - Memory Usage: 89.9%
+2025-06-08 22:05:15,631 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:05:15,632 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:06:14,689 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:06:14,692 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:06:14,693 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:06:14,694 - HardwareOrchestrator - INFO - Emergence Score: -108.4585
+2025-06-08 22:06:14,695 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:06:14,697 - HardwareOrchestrator - INFO - Adaptability Index: 0.0465
+2025-06-08 22:06:14,698 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:06:14,703 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:06:14,704 - HardwareOrchestrator - INFO - Total Frames: 94
+2025-06-08 22:06:14,706 - HardwareOrchestrator - INFO - Memory Usage: 90.7%
+2025-06-08 22:06:14,706 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:06:14,708 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:07:10,765 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:07:10,767 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:07:10,769 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:07:10,771 - HardwareOrchestrator - INFO - Emergence Score: -108.7757
+2025-06-08 22:07:10,773 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:07:10,774 - HardwareOrchestrator - INFO - Adaptability Index: 0.0461
+2025-06-08 22:07:10,775 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:07:10,775 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:07:10,776 - HardwareOrchestrator - INFO - Total Frames: 95
+2025-06-08 22:07:10,777 - HardwareOrchestrator - INFO - Memory Usage: 90.9%
+2025-06-08 22:07:10,778 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:07:10,784 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:08:10,197 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:08:10,199 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:08:10,200 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:08:10,201 - HardwareOrchestrator - INFO - Emergence Score: -108.1052
+2025-06-08 22:08:10,202 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:08:10,207 - HardwareOrchestrator - INFO - Adaptability Index: 0.0468
+2025-06-08 22:08:10,209 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:08:10,210 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:08:10,212 - HardwareOrchestrator - INFO - Total Frames: 96
+2025-06-08 22:08:10,213 - HardwareOrchestrator - INFO - Memory Usage: 91.3%
+2025-06-08 22:08:10,213 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:08:10,215 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:14,584 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:14,586 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:09:14,586 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:14,587 - HardwareOrchestrator - INFO - Emergence Score: -110.8659
+2025-06-08 22:09:14,587 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:09:14,587 - HardwareOrchestrator - INFO - Adaptability Index: 0.0441
+2025-06-08 22:09:14,588 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:09:14,588 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:09:14,589 - HardwareOrchestrator - INFO - Total Frames: 97
+2025-06-08 22:09:14,589 - HardwareOrchestrator - INFO - Memory Usage: 88.7%
+2025-06-08 22:09:14,596 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:09:14,597 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:57,624 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:57,625 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:09:57,625 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:09:57,625 - HardwareOrchestrator - INFO - Emergence Score: -110.7312
+2025-06-08 22:09:57,626 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:09:57,626 - HardwareOrchestrator - INFO - Adaptability Index: 0.0442
+2025-06-08 22:09:57,626 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:09:57,627 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:09:57,627 - HardwareOrchestrator - INFO - Total Frames: 98
+2025-06-08 22:09:57,628 - HardwareOrchestrator - INFO - Memory Usage: 88.4%
+2025-06-08 22:09:57,628 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:09:57,629 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:05,807 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:05,808 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:11:05,808 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:05,809 - HardwareOrchestrator - INFO - Emergence Score: -109.4395
+2025-06-08 22:11:05,811 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:11:05,811 - HardwareOrchestrator - INFO - Adaptability Index: 0.0455
+2025-06-08 22:11:05,812 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 22:11:05,813 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:11:05,814 - HardwareOrchestrator - INFO - Total Frames: 99
+2025-06-08 22:11:05,816 - HardwareOrchestrator - INFO - Memory Usage: 92.1%
+2025-06-08 22:11:05,817 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:11:05,818 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:45,858 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:45,867 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:11:45,871 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:11:45,872 - HardwareOrchestrator - INFO - Emergence Score: -109.0939
+2025-06-08 22:11:45,873 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:11:45,883 - HardwareOrchestrator - INFO - Adaptability Index: 0.0458
+2025-06-08 22:11:45,886 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:11:45,887 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:11:45,889 - HardwareOrchestrator - INFO - Total Frames: 100
+2025-06-08 22:11:45,892 - HardwareOrchestrator - INFO - Memory Usage: 91.4%
+2025-06-08 22:11:45,895 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:11:45,903 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:12:33,985 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:12:33,991 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:12:33,992 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:12:33,993 - HardwareOrchestrator - INFO - Emergence Score: -108.7164
+2025-06-08 22:12:33,996 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:12:34,004 - HardwareOrchestrator - INFO - Adaptability Index: 0.0462
+2025-06-08 22:12:34,006 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:12:34,007 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:12:34,009 - HardwareOrchestrator - INFO - Total Frames: 101
+2025-06-08 22:12:34,011 - HardwareOrchestrator - INFO - Memory Usage: 91.1%
+2025-06-08 22:12:34,021 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:12:34,023 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:13:39,725 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:13:39,726 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:13:39,728 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:13:39,728 - HardwareOrchestrator - INFO - Emergence Score: -108.8683
+2025-06-08 22:13:39,729 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:13:39,729 - HardwareOrchestrator - INFO - Adaptability Index: 0.0461
+2025-06-08 22:13:39,730 - HardwareOrchestrator - INFO - Processing FPS: 0.02
+2025-06-08 22:13:39,731 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:13:39,732 - HardwareOrchestrator - INFO - Total Frames: 102
+2025-06-08 22:13:39,732 - HardwareOrchestrator - INFO - Memory Usage: 89.4%
+2025-06-08 22:13:39,734 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:13:39,736 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:15:02,787 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:15:02,788 - HardwareOrchestrator - INFO - CONSCIOUSNESS PROCESSING METRICS
+2025-06-08 22:15:02,789 - HardwareOrchestrator - INFO - ============================================================
+2025-06-08 22:15:02,789 - HardwareOrchestrator - INFO - Emergence Score: -109.3782
+2025-06-08 22:15:02,790 - HardwareOrchestrator - INFO - Coherence Level: 0.0000
+2025-06-08 22:15:02,791 - HardwareOrchestrator - INFO - Adaptability Index: 0.0455
+2025-06-08 22:15:02,791 - HardwareOrchestrator - INFO - Processing FPS: 0.01
+2025-06-08 22:15:02,792 - HardwareOrchestrator - INFO - Overall FPS: 0.01
+2025-06-08 22:15:02,792 - HardwareOrchestrator - INFO - Total Frames: 103
+2025-06-08 22:15:02,793 - HardwareOrchestrator - INFO - Memory Usage: 94.1%
+2025-06-08 22:15:02,794 - HardwareOrchestrator - INFO - Hardware: CPU
+2025-06-08 22:15:02,795 - HardwareOrchestrator - INFO - ============================================================

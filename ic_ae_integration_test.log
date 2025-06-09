@@ -1,0 +1,2 @@
+2025-06-08 02:42:25,791 - __main__ - ERROR - Integration test failed: __init__() missing 1 required positional argument: 'workspace_path'
+2025-06-08 02:44:19,661 - __main__ - ERROR - Integration test failed: __init__() missing 1 required positional argument: 'workspace_path'

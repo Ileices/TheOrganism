@@ -1,0 +1,6 @@
+2025-06-05 06:57:15,633 - AEOS_DeploymentManager - INFO -    Output directory: ./ae_deployment_output
+2025-06-05 06:57:15,637 - AEOS_DeploymentManager - INFO -    Safety checks: True
+2025-06-05 06:57:15,637 - AEOS_DeploymentManager - INFO -    Auto-deploy: False
+2025-06-05 07:09:16,340 - AEOS_DeploymentManager - INFO -    Output directory: ./ae_deployment_output
+2025-06-05 07:09:16,345 - AEOS_DeploymentManager - INFO -    Safety checks: True
+2025-06-05 07:09:16,345 - AEOS_DeploymentManager - INFO -    Auto-deploy: False

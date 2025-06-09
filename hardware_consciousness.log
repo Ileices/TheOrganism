@@ -1,0 +1,24 @@
+2025-06-08 19:28:18,982 - HardwareConsciousness - INFO - Detecting hardware capabilities...
+2025-06-08 19:28:19,996 - HardwareConsciousness - INFO - Hardware Summary:
+2025-06-08 19:28:19,996 - HardwareConsciousness - INFO -   CPU Cores: 4
+2025-06-08 19:28:19,996 - HardwareConsciousness - INFO -   RAM: 3911 MB
+2025-06-08 19:28:20,011 - HardwareConsciousness - INFO -   GPU Available: False
+2025-06-08 19:28:20,011 - HardwareConsciousness - INFO -   OpenGL Available: True
+2025-06-08 19:28:35,530 - HardwareConsciousness - ERROR - Failed to initialize consciousness engine: 'CUDAConsciousnessEngine' object has no attribute 'logger'
+2025-06-08 19:28:39,106 - HardwareConsciousness - ERROR - Failed to initialize visualizer: 'vsync'
+2025-06-08 19:28:39,256 - HardwareConsciousness - INFO - Starting Hardware-Accelerated Consciousness Production System
+2025-06-08 19:28:39,259 - HardwareConsciousness - INFO - ======================================================================
+2025-06-08 19:28:39,282 - HardwareConsciousness - ERROR - Insufficient memory: 282MB < 512MB
+2025-06-08 19:28:39,283 - HardwareConsciousness - ERROR - System requirements not met - cannot start
+2025-06-08 19:29:14,732 - HardwareConsciousness - INFO - Detecting hardware capabilities...
+2025-06-08 19:29:15,736 - HardwareConsciousness - INFO - Hardware Summary:
+2025-06-08 19:29:15,736 - HardwareConsciousness - INFO -   CPU Cores: 4
+2025-06-08 19:29:15,736 - HardwareConsciousness - INFO -   RAM: 3911 MB
+2025-06-08 19:29:15,736 - HardwareConsciousness - INFO -   GPU Available: False
+2025-06-08 19:29:15,736 - HardwareConsciousness - INFO -   OpenGL Available: True
+2025-06-08 19:29:16,644 - HardwareConsciousness - ERROR - Failed to initialize consciousness engine: 'CUDAConsciousnessEngine' object has no attribute 'logger'
+2025-06-08 19:29:18,171 - HardwareConsciousness - ERROR - Failed to initialize visualizer: 'vsync'
+2025-06-08 19:29:18,351 - HardwareConsciousness - INFO - Starting Hardware-Accelerated Consciousness Production System
+2025-06-08 19:29:18,399 - HardwareConsciousness - INFO - ======================================================================
+2025-06-08 19:29:18,410 - HardwareConsciousness - ERROR - Insufficient memory: 258MB < 512MB
+2025-06-08 19:29:18,435 - HardwareConsciousness - ERROR - System requirements not met - cannot start
